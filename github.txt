@@ -1,4 +1,6 @@
 Nouveau lien: 
+https://github.com/s-elbourmaki/PythonWorkshops 
+dossier complet .zip
 
 https://github.com/salimelbourmaki/PythonWorkshops/tree/main/Devoir1_Python
 
